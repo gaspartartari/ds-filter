@@ -1,0 +1,39 @@
+#form {
+  margin: 20px 0;
+
+}
+
+.df-form {
+  height: 200px;
+  background: var(--bg-secondary-color);
+  padding: 20px;
+  border-radius: 5px;
+
+}
+
+.df-form input, button {
+    margin-bottom: 20px;
+    height: 40px;
+    width: 200px;
+}
+
+.df-form input {
+    color: var(--text-input-color);
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: var(--text-input-color);
+    padding: 10px;
+    outline: none;
+  
+}
+.df-form button {
+    background-color: var(--bg-primary-color);
+    color: var(--text-primary-color);
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: var(--bg-primary-color);
+    font-size: 16px;
+}
+
+
+

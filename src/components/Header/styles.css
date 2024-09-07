@@ -1,0 +1,27 @@
+header {
+    height: 70px;
+    background: var(--bg-primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.df-header-content{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text-primary-color);
+    font-weight: 700;
+    
+}
+
+.df-header-contet h1 {
+font-size: 20px;
+font-weight: 700;
+}
+
+.df-header-content p {
+font-size: 12px;
+
+}
